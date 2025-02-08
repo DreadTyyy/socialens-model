@@ -3,3 +3,4 @@ __pycache__/
 uploads/
 .env
 app.py
+requirements2.txt
